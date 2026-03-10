@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+streamlit
+playsound
+geocoder
+requests
+plotly
+streamlit-autorefresh
+pandas
