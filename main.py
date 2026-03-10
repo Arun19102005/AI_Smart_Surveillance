@@ -10,8 +10,8 @@ import csv
 import geocoder
 
 # TELEGRAM CONFIG
-BOT_TOKEN = "8719495965:AAHi-8j-GYqjdyu0JZSzMa2ColmtrouAM_U"
-CHAT_ID = "6633074841"
+BOT_TOKEN = "BOT TOKEN"
+CHAT_ID = "BOT ID"
 
 # LOAD YOLO MODEL
 model = YOLO("yolov8s.pt")
@@ -207,4 +207,5 @@ Location:
 
 
 cap.release()
+
 cv2.destroyAllWindows()
